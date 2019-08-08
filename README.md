@@ -1,3 +1,2 @@
-# angular-oqlnrm
+# **Store app built with Angular**
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-oqlnrm)
